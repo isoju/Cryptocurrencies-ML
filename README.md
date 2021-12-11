@@ -14,7 +14,7 @@ Dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data
 
 ### Cluster Analysis with k-Means
 * Created an elbow plot to identify the best number of clusters.
-* Used a for-loop to determine the inertia for each'k' between 1 through 10.
+* Used a for-loop to determine the inertia for each 'k' between 1 through 10.
 ![Elbow Plot](Images/elbow_plot.png)
 
 ### Observations
