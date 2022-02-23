@@ -25,7 +25,7 @@ at the center of the plot and disspiating outwards.
 When creating an elbow plot using the crypto data provided, it was observed that there was no distinct 'elbow' 
 to the plot, resulting in no distinct value of 'k'. 
 
-Based on the findings, it is recommendedd not to cluster cryptocurrencies together. There is no distinct correlation
+Based on the findings, it is recommended not to cluster cryptocurrencies together. There is no distinct correlation
 between each one to which they can be grouped together.  
 
 ## References
